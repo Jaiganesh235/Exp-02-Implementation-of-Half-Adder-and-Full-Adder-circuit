@@ -72,10 +72,10 @@ endmodule
 2. FULL ADDER
 
 ## RTL REALIZATION:
-1. HALF ADDER
+### HALF ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/f7cfff41-9671-4c3c-b523-7edd2074233b)
 
-2. FULL ADDER
+### FULL ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/7cb66c1f-4a79-4103-99ca-b50942d250cd)
 
 
