@@ -44,14 +44,46 @@ Carry = AB + ACin + BCin
 ## Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: S.Jaiganesh
+RegisterNumber: 212222240037
 */
+1. Program to design a half adder:
+```
+module ex3(a,b,sum,carry);
+input a,b;
+output sum,carry;
+assign sum=a^b;
+assign carry=a&b;
+endmodule 
+```
+2. Program to design a full adder:
+```
+module ex31(a,b,cin,sum,carry);
+input a,b,cin;
+output sum,carry;
+assign sum=a^b^cin;
+assign carry=(a&b)|((a^b)&cin);
+endmodule
+```
 
 ## TRUTH TABLE:
+1. HALF ADDER'
+ 
+2. FULL ADDER
 
 ## RTL REALIZATION:
+1. HALF ADDER
+![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/f7cfff41-9671-4c3c-b523-7edd2074233b)
+
+2. FULL ADDER
+![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/7cb66c1f-4a79-4103-99ca-b50942d250cd)
+
 
 ## OUTPUT WAVEFORM:
+1. HALF ADDER
+![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/c3ece2e7-b7ce-4c6f-961a-ebebbec90493)
+ 
+2. FULL ADDER
+![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/dfd139bf-43ed-4300-80e0-398ca22f45ff)
 
 ### Result:
