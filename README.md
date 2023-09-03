@@ -80,10 +80,10 @@ endmodule
 
 
 ## OUTPUT WAVEFORM:
-1. HALF ADDER
+# HALF ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/c3ece2e7-b7ce-4c6f-961a-ebebbec90493)
  
-2. FULL ADDER
+# FULL ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/dfd139bf-43ed-4300-80e0-398ca22f45ff)
 
 ### Result:
