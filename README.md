@@ -8,9 +8,11 @@ REGISTER NO: 212222240037
 ## AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
+
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
+
 
 ## THEORY:
 Adders are digital circuits that carry out addition of numbers.
@@ -36,10 +38,12 @@ Carry = AB + ACin + BCin
 
 ### Figure -02 FULL ADDER 
 
+
 ## PROCEDURE:
 1. Connect the supply (+5V) to the circuit
 2. Switch ON the main switch
 3. If the output is 1, then the led glows.
+
 
 ## PROGRAM:
 ```
@@ -73,6 +77,7 @@ endmodule
 ### FULL ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/afc4522a-f291-40a5-845c-32c14bb92999)
 
+
 ## RTL REALIZATION:
 ### HALF ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/f7cfff41-9671-4c3c-b523-7edd2074233b)
@@ -87,6 +92,7 @@ endmodule
  
 ### FULL ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/dfd139bf-43ed-4300-80e0-398ca22f45ff)
+
 
 ## RESULT:
 Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
