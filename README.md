@@ -2,13 +2,13 @@
 NAME: S.JAIGANESH
 REGISTER NO: 212222240037
 ```
-# Exp-02-IMPLEMENTATION OF HALF ADDER AND FULL ADDER CIRCUIT
+# EXP-02-IMPLEMENTATION OF HALF ADDER AND FULL ADDER CIRCUIT
 
 
-### AIM:
+## AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
-### EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 
