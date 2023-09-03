@@ -1,13 +1,18 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+```
+NAME: S.JAIGANESH
+REGISTER NO: 212222240037
+```
+# Exp-02-IMPLEMENTATION OF HALF ADDER AND FULL ADDER CIRCUIT
 
-# Implementation-of-Half-Adder-and-Full-Adder-circuit
+
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
-### Equipments Required:
+### EQUIPMENTS REQUIRED:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
+
+### THEORY:
 Adders are digital circuits that carry out addition of numbers.
 
 ### Half Adder
