@@ -78,6 +78,8 @@ endmodule
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/afc4522a-f291-40a5-845c-32c14bb92999)
 
 
+
+
 ## RTL REALIZATION:
 ### HALF ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/f7cfff41-9671-4c3c-b523-7edd2074233b)
