@@ -41,7 +41,7 @@ Carry = AB + ACin + BCin
 2. Switch ON the main switch
 3. If the output is 1, then the led glows.
 
-## Program:
+## PROGRAM:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: S.Jaiganesh
@@ -88,5 +88,5 @@ endmodule
 ### FULL ADDER
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/dfd139bf-43ed-4300-80e0-398ca22f45ff)
 
-## Result:
+## RESULT:
 Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
