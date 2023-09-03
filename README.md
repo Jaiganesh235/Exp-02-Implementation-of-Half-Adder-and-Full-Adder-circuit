@@ -89,3 +89,4 @@ endmodule
 ![image](https://github.com/Jaiganesh235/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118657189/dfd139bf-43ed-4300-80e0-398ca22f45ff)
 
 ## Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
