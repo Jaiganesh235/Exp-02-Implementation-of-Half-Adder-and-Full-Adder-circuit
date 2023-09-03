@@ -42,22 +42,22 @@ Carry = AB + ACin + BCin
 3. If the output is 1, then the led glows.
 
 ## PROGRAM:
-/*
+```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: S.Jaiganesh
 RegisterNumber: 212222240037
-*/
+
 1. Program to design a half adder:
-```
+
 module ex3(a,b,sum,carry);
 input a,b;
 output sum,carry;
 assign sum=a^b;
 assign carry=a&b;
 endmodule 
-```
+
 2. Program to design a full adder:
-```
+
 module ex31(a,b,cin,sum,carry);
 input a,b,cin;
 output sum,carry;
